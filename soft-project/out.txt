@@ -1,0 +1,12 @@
+RA 143/2015 Igor Lovric 
+file sum
+video-0.avi	11
+video-1.avi	61
+video-2.avi	53
+video-3.avi	59
+video-4.avi	37
+video-5.avi	60
+video-6.avi	53
+video-7.avi	35
+video-8.avi	55
+video-9.avi	33
